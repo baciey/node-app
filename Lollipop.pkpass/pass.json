@@ -24,7 +24,7 @@
   "description": "Karta z limitem",
   "logoText": "Aasa24",
   "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "#2388FF",
+  "backgroundColor": "rgb(35, 136, 255)",
   "generic": {
     "primaryFields": [
       {
