@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "passTypeIdentifier": "pass.pl.aasapolska.aasa24.dev",
+  "passTypeIdentifier": "pass.com.apple.devpubs.example",
   "serialNumber": "8j23fm3",
   "webServiceURL": "https://example.com/passes/",
   "authenticationToken": "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
-  "teamIdentifier": "T8B8YSU8G7",
+  "teamIdentifier": "A93A5CM278",
   "locations": [
     {
       "longitude": -122.3748889,
